@@ -1,0 +1,2 @@
+# no-more-confirm-redirect
+ 
