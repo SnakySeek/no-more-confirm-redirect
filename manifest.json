@@ -1,6 +1,6 @@
 {
     "name": "no-more-confirm-redirect",
-    "description": "",
+    "description": "Prevents The Annoying "Are You Sure You Want To Leave YouTube?" Popup",
     "manifest_version": 3,
     "author": "SnakySeek",
     "version": "1.0",
